@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Safest Routes.unity
+- path: Assets/food.unity
   isLoaded: 1
   isActive: 1
